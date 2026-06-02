@@ -8,7 +8,7 @@ Our tools process data locally in your browser, ensuring your private informatio
 ### 📈 Business & Finance Hub
 *   **[ROI Calculator](https://basharattoolsonline.blogspot.com/p/roi-calculator.html)** - Professional return on investment insights for dropshippers.
 *   **[Compound Interest Calculator](https://basharattoolsonline.blogspot.com/p/universal-compound-interest-calculator.html)** - Multi-currency wealth growth visualizer.
-*   **[GST & Sales Tax Calculator](https://basharattoolsonline.blogspot.com/p/gst-sales-tax-calculator.html)** - Global tax inclusive/exclusive math in 20+ currencies.
+*   **[GST & Sales Tax Calculator](https://basharattoolsonline.blogspot.com/p/universal-gst-sales-tax-calculator.html)** - Global tax inclusive/exclusive math in 20+ currencies.
 *   **[Professional Age Calculator](https://basharattoolsonline.blogspot.com/p/professional-age-calculator.html)** - Precise age calculation in years, months, and days.
 
 ### 🖼️ Multimedia & Design
