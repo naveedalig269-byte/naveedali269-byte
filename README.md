@@ -13,7 +13,7 @@ All our tools are 100% free, require no signup, and process data locally in your
 *   **[QR Code Generator](https://basharattoolsonline.blogspot.com/p/qr-code-generator.html)** - High-resolution custom QR codes for any link or text.
 *   **[ROI Calculator](https://basharattoolsonline.blogspot.com/p/roi-calculator.html)** - Calculate profit margins and return on investment instantly.
 *   **[Compound Interest Calculator](https://basharattoolsonline.blogspot.com/p/universal-compound-interest-calculator.html)** - Visualize long-term wealth growth with multi-currency support.
-*   **[GST & Sales Tax Calculator](https://basharattoolsonline.blogspot.com/p/gst-sales-tax-calculator.html)** - Accurate GST/VAT inclusive & exclusive math for global invoicing.
+*   **[GST & Sales Tax Calculator](https://basharattoolsonline.blogspot.com/p/universal-gst-sales-tax-calculator.html)** - Accurate GST/VAT inclusive & exclusive math for global invoicing.
 *   **[Professional Age Calculator](https://basharattoolsonline.blogspot.com/p/professional-age-calculator.html)** - Precise age calculation in years, months, and days.
 *   **[Secure Password Generator](https://basharattoolsonline.blogspot.com/p/password-generator.html)** - Hacker-proof random password creation.
 *   **[Word Counter](https://basharattoolsonline.blogspot.com/p/word-counter-character-count.html)** - Real-time word, character, and sentence analysis.
